@@ -1,0 +1,10 @@
+#TODO:
+
+- add howto lower current of tmc2209 z stepper
+- how to change mesh size
+- how to fix bed calibration -> shortcut macro for 4 screw locations
+- how to change mainboard fan speed/idle time
+- how to retrieve/interpretate current temperature range of tmc driver
+ - add helper macro for temp interpretation
+ - add z-axis stress test (iteratively up down high speed, n-times -- finally extract temp output)
+
