@@ -1,7 +1,7 @@
 #TODO:
 
 - add howto lower current of tmc2209 z stepper
-- how to change mesh size
+- how to change mesh size, tweak mesh calibration parameters, add remarks
 - how to fix bed calibration -> shortcut macro for 4 screw locations
 - how to change mainboard fan speed/idle time
 - how to retrieve/interpretate current temperature range of tmc driver
